@@ -1,0 +1,27 @@
+body{
+    background-color:royalblue;
+    color: red
+}
+
+header{
+    text-align: center;
+
+}
+
+nav{
+    height: 200px;
+    width: 1500px;
+    float:center;
+    padding: 5px;
+    background-color: grey;
+    line-height: 30px
+}
+
+footer{
+    text-align: center;
+}
+
+#pic1{
+    align-items: center;
+}
+
